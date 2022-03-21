@@ -1,6 +1,10 @@
-# domaindict
+# Bulk Domain Searcher <a href="https://twitter.com/enzogla"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 Domain Dictionary looker-upper
 
+### Support for:
+* Bulk domain searching
+* No 3rd party API used (meaning infinite calls)
+* Search mutliple TLDs at a time (e.g. `.com`, `.de`, `.fr` etc)
 
 ### How to use
 1. Make sure you have NodeJS and `yarn` installed.
